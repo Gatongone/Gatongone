@@ -2,11 +2,9 @@
 
 ### Projects under development：
 
-⚡ **[Geparate](https://github.com/Gatongone/Geparate)**：The decoupling framework for Unity3D.
-
-⚡ **[Gneedle](https://github.com/Gatongone/Gneedle)**：Compilation postprocessing interface.
-
-⚡ **[Gubbins](https://github.com/Gatongone/Gubbins)**：Game development general tools collection.
+* ⚡ **[Geparate](https://github.com/Gatongone/Geparate)**：The decoupling framework for Unity3D.
+* ⚡ **[Gneedle](https://github.com/Gatongone/Gneedle)**：Compilation postprocessing interface.
+* ⚡ **[Gubbins](https://github.com/Gatongone/Gubbins)**：Game development general tools collection.
 
 ### Contact：
 
