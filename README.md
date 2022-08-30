@@ -10,7 +10,7 @@
 
 :coffee: Email: gatongone@gmail.com
 
-:house: Blog: [Gatongone](https://www.gatongone.sit)
+:house: Blog: [Gatongone](https://www.gatongone.site)
 
 :art: Lofter: [关东关](https://gatongone.lofter.com)
 
